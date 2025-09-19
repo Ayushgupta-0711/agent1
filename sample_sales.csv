@@ -1,0 +1,11 @@
+Date,Product,Region,Sales,Units
+2025-01-01,Laptop,North,1200,3
+2025-01-02,Phone,South,800,5
+2025-01-03,Tablet,East,600,2
+2025-01-04,Laptop,West,1500,4
+2025-01-05,Phone,North,900,6
+2025-01-06,Tablet,South,700,3
+2025-01-07,Laptop,East,1600,5
+2025-01-08,Phone,West,850,4
+2025-01-09,Tablet,North,650,2
+2025-01-10,Laptop,South,1700,6
