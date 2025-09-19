@@ -1,1 +1,7 @@
+# Shared dependencies
 streamlit
+fastapi
+uvicorn
+pandas
+requests
+python-multipart
